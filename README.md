@@ -1,5 +1,7 @@
 # orphanage-website by Moturi Devika
 
+# Azure link:https://calm-beach-030439710.1.azurestaticapps.net
+
 Home page:
 
 ![home 1](https://user-images.githubusercontent.com/79193437/174427035-b415d0ff-b5a9-445b-8bf3-004566695b3e.png)
